@@ -1,0 +1,577 @@
+# depslib dependency file v1.0
+1657143024 source:c:\users\iaraa\onedrive\documents\github\generala\generalatp\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"funciones.h"
+	"opciones.h"
+
+1657254727 c:\users\iaraa\onedrive\documents\github\generala\generalatp\funciones.h
+
+1657255042 c:\users\iaraa\onedrive\documents\github\generala\generalatp\opciones.h
+
+1657143024 source:c:\users\iaraa\downloads\utn frgp\tec. en programación\utn 1er cuatri\1. lab computación i\tp integrador\generalatpultima version\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"funciones.h"
+	"opciones.h"
+
+1657296348 c:\users\iaraa\downloads\utn frgp\tec. en programación\utn 1er cuatri\1. lab computación i\tp integrador\generalatpultima version\funciones.h
+
+1657294252 c:\users\iaraa\downloads\utn frgp\tec. en programación\utn 1er cuatri\1. lab computación i\tp integrador\generalatpultima version\opciones.h
+
+1657324669 source:c:\users\wal_2\desktop\generalatpv8\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"funciones.h"
+	"opciones.h"
+
+1657325941 c:\users\wal_2\desktop\generalatpv8\funciones.h
+
+1657332017 c:\users\wal_2\desktop\generalatpv8\opciones.h
+
+1657387401 source:c:\users\iaraa\downloads\versiones santi\generala v9\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"funciones.h"
+	"opciones.h"
+
+1657394980 c:\users\iaraa\downloads\versiones santi\generala v9\funciones.h
+
+1657395040 c:\users\iaraa\downloads\versiones santi\generala v9\opciones.h
+
+1657497157 source:c:\users\iaraa\downloads\utn frgp\tec. en programación\utn 1er cuatri\1. lab computación i\tp integrador\versiones santi\generala v10\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<stdlib.h>
+	"funciones.h"
+	"opciones.h"
+
+1657503025 c:\users\iaraa\downloads\utn frgp\tec. en programación\utn 1er cuatri\1. lab computación i\tp integrador\versiones santi\generala v10\funciones.h
+
+1657503023 c:\users\iaraa\downloads\utn frgp\tec. en programación\utn 1er cuatri\1. lab computación i\tp integrador\versiones santi\generala v10\opciones.h
+
+1657497157 source:c:\users\wal_2\desktop\generala v11\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<stdlib.h>
+	"funciones.h"
+	"opciones.h"
+
+1657503025 c:\users\wal_2\desktop\generala v11\funciones.h
+
+1657596612 c:\users\wal_2\desktop\generala v11\opciones.h
+
+1657672171 source:c:\users\iaraa\downloads\utn frgp\tec. en programación\utn 1er cuatri\1. lab computación i\tp integrador\versiones santi\generala v12\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<stdlib.h>
+	"masfunciones.h"
+	"funciones.h"
+	"opciones.h"
+
+1657669672 c:\users\iaraa\downloads\utn frgp\tec. en programación\utn 1er cuatri\1. lab computación i\tp integrador\versiones santi\generala v12\funciones.h
+
+1657672911 c:\users\iaraa\downloads\utn frgp\tec. en programación\utn 1er cuatri\1. lab computación i\tp integrador\versiones santi\generala v12\opciones.h
+
+1657672911 c:\users\iaraa\downloads\utn frgp\tec. en programación\utn 1er cuatri\1. lab computación i\tp integrador\versiones santi\generala v12\masfunciones.h
+
+1657673996 source:c:\users\iaraa\downloads\utn frgp\tec. en programación\utn 1er cuatri\1. lab computación i\tp integrador\versiones santi\generala v14\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<stdlib.h>
+	"masfunciones.h"
+	"funciones.h"
+	"opciones.h"
+
+1657677892 c:\users\iaraa\downloads\utn frgp\tec. en programación\utn 1er cuatri\1. lab computación i\tp integrador\versiones santi\generala v14\masfunciones.h
+
+1657676089 c:\users\iaraa\downloads\utn frgp\tec. en programación\utn 1er cuatri\1. lab computación i\tp integrador\versiones santi\generala v14\funciones.h
+
+1657677663 c:\users\iaraa\downloads\utn frgp\tec. en programación\utn 1er cuatri\1. lab computación i\tp integrador\versiones santi\generala v14\opciones.h
+
+1657765597 source:c:\users\wal_2\desktop\generala v14\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<stdlib.h>
+	"masfunciones.h"
+	"funciones.h"
+	"opciones.h"
+	"rlutil.h"
+
+1657763923 c:\users\wal_2\desktop\generala v14\masfunciones.h
+	"rlutil.h"
+
+1657765350 c:\users\wal_2\desktop\generala v14\funciones.h
+
+1657765597 c:\users\wal_2\desktop\generala v14\opciones.h
+
+1571584339 c:\users\wal_2\desktop\generala v14\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657769645 source:c:\users\wal_2\desktop\generala v14 backup\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<stdlib.h>
+	"masfunciones.h"
+	"funciones.h"
+	"opciones.h"
+	"rlutil.h"
+
+1657770667 c:\users\wal_2\desktop\generala v14 backup\masfunciones.h
+	"rlutil.h"
+
+1571584339 c:\users\wal_2\desktop\generala v14 backup\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657765350 c:\users\wal_2\desktop\generala v14 backup\funciones.h
+
+1657770680 c:\users\wal_2\desktop\generala v14 backup\opciones.h
+
+1657813582 source:c:\users\wal_2\desktop\generala v14 - copia\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<stdlib.h>
+	"masfunciones.h"
+	"funciones.h"
+	"opciones.h"
+	"rlutil.h"
+
+1657814878 c:\users\wal_2\desktop\generala v14 - copia\masfunciones.h
+	"rlutil.h"
+
+1571584339 c:\users\wal_2\desktop\generala v14 - copia\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657815099 c:\users\wal_2\desktop\generala v14 - copia\funciones.h
+
+1657770680 c:\users\wal_2\desktop\generala v14 - copia\opciones.h
+
+1657813582 source:c:\users\wal_2\desktop\generala v16\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<stdlib.h>
+	"masfunciones.h"
+	"funciones.h"
+	"opciones.h"
+	"rlutil.h"
+
+1657814878 c:\users\wal_2\desktop\generala v16\masfunciones.h
+	"rlutil.h"
+
+1571584339 c:\users\wal_2\desktop\generala v16\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657815099 c:\users\wal_2\desktop\generala v16\funciones.h
+
+1657770680 c:\users\wal_2\desktop\generala v16\opciones.h
+
+1657845596 source:c:\users\iaraa\downloads\utn frgp\tec. en programación\utn 1er cuatri\1. lab computación i\tp integrador\versiones santi\generala v16\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<stdlib.h>
+	"masfunciones.h"
+	"funciones.h"
+	"opciones.h"
+	"rlutil.h"
+
+1657814878 c:\users\iaraa\downloads\utn frgp\tec. en programación\utn 1er cuatri\1. lab computación i\tp integrador\versiones santi\generala v16\masfunciones.h
+	"rlutil.h"
+
+1571584339 c:\users\iaraa\downloads\utn frgp\tec. en programación\utn 1er cuatri\1. lab computación i\tp integrador\versiones santi\generala v16\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657856329 c:\users\iaraa\downloads\utn frgp\tec. en programación\utn 1er cuatri\1. lab computación i\tp integrador\versiones santi\generala v16\funciones.h
+
+1657858004 c:\users\iaraa\downloads\utn frgp\tec. en programación\utn 1er cuatri\1. lab computación i\tp integrador\versiones santi\generala v16\opciones.h
+
+1657863078 source:c:\users\iaraa\downloads\utn frgp\tec. en programación\utn 1er cuatri\1. lab computación i\tp integrador\versiones santi\generala v17\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<stdlib.h>
+	"rlutil.h"
+	"masfunciones.h"
+	"funciones.h"
+	"opciones.h"
+
+1657866876 c:\users\iaraa\downloads\utn frgp\tec. en programación\utn 1er cuatri\1. lab computación i\tp integrador\versiones santi\generala v17\masfunciones.h
+	"rlutil.h"
+
+1571584339 c:\users\iaraa\downloads\utn frgp\tec. en programación\utn 1er cuatri\1. lab computación i\tp integrador\versiones santi\generala v17\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657866784 c:\users\iaraa\downloads\utn frgp\tec. en programación\utn 1er cuatri\1. lab computación i\tp integrador\versiones santi\generala v17\funciones.h
+
+1657867724 c:\users\iaraa\downloads\utn frgp\tec. en programación\utn 1er cuatri\1. lab computación i\tp integrador\versiones santi\generala v17\opciones.h
+
+1657868552 source:c:\users\wal_2\desktop\generala v18\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<stdlib.h>
+	"rlutil.h"
+	"masfunciones.h"
+	"funciones.h"
+	"opciones.h"
+
+1571584339 c:\users\wal_2\desktop\generala v18\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657868552 c:\users\wal_2\desktop\generala v18\masfunciones.h
+	"rlutil.h"
+
+1657868734 c:\users\wal_2\desktop\generala v18\funciones.h
+
+1657869385 c:\users\wal_2\desktop\generala v18\opciones.h
+
+1657868552 source:c:\users\iaraa\downloads\generala v19\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<stdlib.h>
+	"rlutil.h"
+	"masfunciones.h"
+	"funciones.h"
+	"opciones.h"
+
+1571584339 c:\users\iaraa\downloads\generala v19\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657873305 c:\users\iaraa\downloads\generala v19\masfunciones.h
+	"rlutil.h"
+
+1657872933 c:\users\iaraa\downloads\generala v19\funciones.h
+
+1657869385 c:\users\iaraa\downloads\generala v19\opciones.h
+
+1657868552 source:c:\users\iaraa\downloads\generala v20\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<stdlib.h>
+	"rlutil.h"
+	"masfunciones.h"
+	"funciones.h"
+	"opciones.h"
+
+1571584339 c:\users\iaraa\downloads\generala v20\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657873305 c:\users\iaraa\downloads\generala v20\masfunciones.h
+	"rlutil.h"
+
+1657872933 c:\users\iaraa\downloads\generala v20\funciones.h
+
+1657869385 c:\users\iaraa\downloads\generala v20\opciones.h
+
+1657868552 source:c:\users\wal_2\desktop\generala v20\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<stdlib.h>
+	"rlutil.h"
+	"masfunciones.h"
+	"funciones.h"
+	"opciones.h"
+
+1571584339 c:\users\wal_2\desktop\generala v20\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657873305 c:\users\wal_2\desktop\generala v20\masfunciones.h
+	"rlutil.h"
+
+1657872933 c:\users\wal_2\desktop\generala v20\funciones.h
+
+1657869385 c:\users\wal_2\desktop\generala v20\opciones.h
+
+1657868552 source:c:\users\wal_2\desktop\santiago monzalvo, iara viera mejorado\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<stdlib.h>
+	"rlutil.h"
+	"masfunciones.h"
+	"funciones.h"
+	"opciones.h"
+
+1571584339 c:\users\wal_2\desktop\santiago monzalvo, iara viera mejorado\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657873305 c:\users\wal_2\desktop\santiago monzalvo, iara viera mejorado\masfunciones.h
+	"rlutil.h"
+
+1657872933 c:\users\wal_2\desktop\santiago monzalvo, iara viera mejorado\funciones.h
+
+1657869385 c:\users\wal_2\desktop\santiago monzalvo, iara viera mejorado\opciones.h
+
+1657868552 source:c:\users\wal_2\desktop\generala c++\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<stdlib.h>
+	"rlutil.h"
+	"masfunciones.h"
+	"funciones.h"
+	"opciones.h"
+
+1571584339 c:\users\wal_2\desktop\generala c++\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657873305 c:\users\wal_2\desktop\generala c++\masfunciones.h
+	"rlutil.h"
+
+1657872933 c:\users\wal_2\desktop\generala c++\funciones.h
+
+1657869385 c:\users\wal_2\desktop\generala c++\opciones.h
+
+1657868552 source:c:\users\wal_2\desktop\programación\generala c++\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<stdlib.h>
+	"rlutil.h"
+	"masfunciones.h"
+	"funciones.h"
+	"opciones.h"
+
+1571584339 c:\users\wal_2\desktop\programación\generala c++\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657873305 c:\users\wal_2\desktop\programación\generala c++\masfunciones.h
+	"rlutil.h"
+
+1657872933 c:\users\wal_2\desktop\programación\generala c++\funciones.h
+
+1657869385 c:\users\wal_2\desktop\programación\generala c++\opciones.h
+
+1657868552 source:c:\users\wal_2\desktop\programación\000 proyectos github\generala c++\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<stdlib.h>
+	"rlutil.h"
+	"masfunciones.h"
+	"funciones.h"
+	"opciones.h"
+
+1571584339 c:\users\wal_2\desktop\programación\000 proyectos github\generala c++\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657873305 c:\users\wal_2\desktop\programación\000 proyectos github\generala c++\masfunciones.h
+	"rlutil.h"
+
+1657872933 c:\users\wal_2\desktop\programación\000 proyectos github\generala c++\funciones.h
+
+1657869385 c:\users\wal_2\desktop\programación\000 proyectos github\generala c++\opciones.h
+
